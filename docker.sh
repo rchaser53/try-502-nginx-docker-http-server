@@ -1,0 +1,1 @@
+docker run -it -p 4000:5000 -v $(pwd):/home node:10.15 bash
